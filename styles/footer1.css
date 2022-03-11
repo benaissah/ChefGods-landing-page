@@ -1,0 +1,19 @@
+.footer1{
+	background-color: rgb(226, 199, 188);
+	color: black;
+	text-align: center;
+	padding: 25px O ;
+	margin-top: 40px;
+	height: 15vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+}
+
+.list-inline {
+padding:0;
+align-items:center;
+list-style: none;
+}
+
